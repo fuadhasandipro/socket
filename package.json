@@ -1,0 +1,23 @@
+{
+  "name": "an",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx soketi start --config=./config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadhasandipro/socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadhasandipro/socket/issues"
+  },
+  "homepage": "https://github.com/fuadhasandipro/socket#readme",
+  "dependencies": {
+    "@soketi/soketi": "^1.6.1"
+  }
+}
