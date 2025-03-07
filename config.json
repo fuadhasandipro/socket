@@ -1,7 +1,6 @@
 {
   "debug": true,
   "port": 6001,
-  "host": "socket-10bb.onrender.com",
   "appManager.array.apps": [
     {
       "id": "some-id",
